@@ -1,0 +1,136 @@
+body{
+    background-color: #ADD8E6;
+}
+
+
+
+
+.container{
+    line-height: 1.6em;
+    border:0px;
+    position: absolute;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 430px;
+
+    
+}
+    .main{
+        margin-top: 40px;
+        border: 40px;
+        border-style: dotted;
+        border-color: #fff;
+        background-color: #fff;
+        border-radius: 20px;
+        color: grey;
+        
+        
+        
+
+    }
+    h2{
+        padding-left: 17px;
+        font-weight: 500px;
+        font-family: sans-serif;
+        color: blue;
+        font-size:25px;
+    }
+
+    
+.foot,a{margin-top: 40px;
+    padding: 50px;
+    padding-top: 7px;
+    color: white;
+    font-size:12px ;
+    text-decoration: none;
+    font-family: Verdana;
+    font-weight: bold;
+        
+    }
+    a:hover{
+       color: grey;
+    }
+
+
+}
+
+.crl{
+padding-top: 13px;
+}
+.crl-cursor-pointer {
+	cursor: pointer;
+}
+    img{position: relative;
+        padding-left: 120px;
+        margin-top: 30px;
+
+    }
+    
+.formgroup input, button, select{
+    width: 350px;
+    border-radius: 5px;
+    padding: 18px;
+    position: relative;
+
+}
+.formgroup label{
+    display: block;
+    position: relative;
+
+    
+}
+input{
+    border: none;
+    background-color: rgb(227, 236, 240);
+    font-size: 18px;
+    font-family:sans-serif;
+    opacity: 0.5;
+}
+.formgroup label{
+    border:2px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    font-size:12px;
+    font-weight:bold;
+    padding-top: 35px;
+    
+
+}
+.create{line-height: 4px;
+    padding-left:23px ;
+
+}
+button{
+    background-color: blue;
+    color: cornsilk;
+    width: 385px;
+    border-radius: 8px;
+    margin-top: 30px;
+    font-size:15px ;
+    font-family: sans-serif;
+    font-weight:bold ;
+
+
+
+}
+button:hover{
+    color: gray;
+}
+h5{ font-size:14px;
+    font-weight: lighter;
+    font-family:sans-serif ;
+    color:grey;
+    word-spacing:6px;
+    padding-left:3px;
+
+}
+select{
+    font-size:16px;
+    font-weight:200px;
+    font-family: sans-serif;
+    background-color: rgb(227, 236, 240);
+    border: 0px;
+    width:385px;
+    
+}

@@ -135,7 +135,7 @@ select{
     
 }
 
-@media(max-width:400px){
+@media(max-width:600px){
 Bodybody{
     background-color: #ADD8E6;
 }
@@ -264,7 +264,7 @@ h5{ font-size:14px;
 
 }
 select{
-    font-size:16px;
+    font-size:6px;
     font-weight:200px;
     font-family: sans-serif;
     background-color: rgb(227, 236, 240);
@@ -272,5 +272,4 @@ select{
     width:385px;
     
 }
-
 }

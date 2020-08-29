@@ -135,7 +135,7 @@ select{
     
 }
 
-@media(400px){
+@media(max-width:400px){
 Bodybody{
     background-color: #ADD8E6;
 }

@@ -149,7 +149,7 @@ Bodybody{
     position: absolute;
     margin: auto;
     margin-top: 10px;
-    margin-left: 430px;
+    margin-left: 250px;
 
     
 }
@@ -168,7 +168,7 @@ Bodybody{
     }
     h2{
         padding-left: 17px;
-        font-weight: 500px;
+        font-weight: 250px;
         font-family: sans-serif;
         color: red;
         font-size:25px;
@@ -269,7 +269,7 @@ select{
     font-family: sans-serif;
     background-color: rgb(227, 236, 240);
     border: 0px;
-    width:385px;
+    width:150px;
     
 }
 }

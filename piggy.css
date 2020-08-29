@@ -168,7 +168,7 @@ Bodybody{
         padding-left: 17px;
         font-weight: 250px;
         font-family: sans-serif;
-        color: red;
+        color: blue;
         font-size:25px;
     }
 
@@ -267,7 +267,7 @@ select{
     font-family: sans-serif;
     background-color: rgb(227, 236, 240);
     border: 0px;
-    width:150px;
+    width:30px;
     
 }
 }

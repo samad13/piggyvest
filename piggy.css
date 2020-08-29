@@ -135,7 +135,7 @@ select{
     
 }
 
-@media(650px){
+@media(400px){
 Bodybody{
     background-color: #ADD8E6;
 }
@@ -170,7 +170,7 @@ Bodybody{
         padding-left: 17px;
         font-weight: 500px;
         font-family: sans-serif;
-        color: blue;
+        color: red;
         font-size:25px;
     }
 

@@ -262,12 +262,12 @@ h5{ font-size:14px;
 
 }
 select{
-    font-size:6px;
+    font-size:16px;
     font-weight:200px;
     font-family: sans-serif;
     background-color: rgb(227, 236, 240);
     border: 0px;
-    width:300px;
+    width:380px;
     
 }
 }

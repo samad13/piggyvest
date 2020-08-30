@@ -141,7 +141,7 @@ select{
 Bodybody{
     background-image: url(image.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 1200px;
+    background-size: 100%;
 }
 
 

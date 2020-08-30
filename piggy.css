@@ -140,7 +140,7 @@ select{
 @media(max-width:600px){
 Bodybody{
     background-image: url(image.jpg);
-    background-size: cover;
+    background-size: initial;
 }
 
 

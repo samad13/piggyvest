@@ -1,5 +1,7 @@
 body{
-    background-color: #ADD8E6;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 1200px;
 }
 
 
@@ -137,7 +139,9 @@ select{
 
 @media(max-width:600px){
 Bodybody{
-    background-color: #ADD8E6;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 1200px;
 }
 
 

@@ -137,7 +137,7 @@ select{
     
 }
 
-@media(max-width:600px){
+@media(min-width:400px){
 Bodybody{
     background-image: url(image.jpg);
     background-size: initial;

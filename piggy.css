@@ -1,5 +1,5 @@
 body{
-  background-image: url(image.jpg);
+  background-color:#453202;
   background-repeat: no-repeat;
   background-size: 100% 1200px;
 }
@@ -137,9 +137,9 @@ select{
     
 }
 
-@media(min-width:400px){
+@media(max-width:768px){
 Bodybody{
-    background-image: url(image.jpg);
+    background-color:#453202;
     background-size: initial;
 }
 
@@ -166,15 +166,7 @@ Bodybody{
         
         
 
-    }
-    h2{
-        padding-left: 17px;
-        font-weight: 250px;
-        font-family: sans-serif;
-        color: blue;
-        font-size:25px;
-    }
-
+	}
     
 .foot,a{margin-top: 40px;
     padding: 50px;
